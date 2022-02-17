@@ -1,7 +1,7 @@
 const Footer = () => {
   return (
     <footer>
-      <p>by <a href="">tomwf</a></p>
+      <p>by <a href="https://github.com/tomwf/FCC-random-quote-machine">tomwf</a></p>
     </footer>
   )
 }

@@ -53,6 +53,9 @@ const QuoteBox = () => {
 
     // Random quote
     fetchQuote()
+
+    // workaround to prevent build from failing
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [])
 
   const getNewQuote = () => {

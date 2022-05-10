@@ -5,7 +5,9 @@
 
 Live Demo: [Random Quote Machine](https://random-quote-machine-tomwf.netlify.app/)
 
+## Built with
+
 This project was built with:
- - React
- - jQuery
- - Sass
+ - [React](https://reactjs.org/)
+ - [jQuery](https://jquery.com/)
+ - [Sass](https://sass-lang.com/)
